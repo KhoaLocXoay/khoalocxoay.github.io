@@ -14,7 +14,7 @@ const config = {
   url: 'https://khoalocxoay.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://github.com/KhoaLocXoay/khoalocxoay.github.io/tree/main/Necakco-Forums',
+  baseUrl: 'https://khoalocxoay.github.io/Necakco-Forums',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
