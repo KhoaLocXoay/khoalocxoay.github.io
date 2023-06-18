@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknecakco_forums=self.webpackChunknecakco_forums||[]).push([[2001],{5703:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/https://khoalocxoay.github.io/blog/tags/docusaurus","allTagsPath":"/https://khoalocxoay.github.io/blog/tags","count":4}')}}]);

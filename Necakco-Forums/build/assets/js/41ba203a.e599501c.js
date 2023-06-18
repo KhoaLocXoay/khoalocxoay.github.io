@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknecakco_forums=self.webpackChunknecakco_forums||[]).push([[6234],{4047:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/https://khoalocxoay.github.io/blog/tags/facebook","allTagsPath":"/https://khoalocxoay.github.io/blog/tags","count":1}')}}]);
