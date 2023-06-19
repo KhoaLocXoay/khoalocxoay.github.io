@@ -71,7 +71,14 @@ header {
   width: 90%;
 }
 
-@media only screen and (max-width: 46.1875em) {
+@media only screen and (max-width: 900px) {
+  .content {
+    grid-template-columns: 1fr 1fr;
+  }
+  img {
+    border-radius: 20px;
+    width: 300px;
+  }
   .menu {
     height: 50px;
     width: 100%;
