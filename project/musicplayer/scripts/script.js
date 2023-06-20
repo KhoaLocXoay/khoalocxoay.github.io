@@ -18,6 +18,14 @@ new Vue({
           url: "#",
           favorited: false
         },
+        {
+          name: "Ramdom?",
+          artist: "Necakco",
+          cover: "./img/index.jpg",
+          source: "https://cdn.discordapp.com/attachments/1102627831378366644/1120604779790479392/y2mate.com_-_my_ordinary_life_speed_up.mp3",
+          url: "#",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
