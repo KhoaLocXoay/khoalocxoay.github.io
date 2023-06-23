@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoadevdash=self.webpackChunkkhoadevdash||[]).push([[147],{4268:e=>{e.exports=JSON.parse('{"permalink":"/khoadevdash/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
